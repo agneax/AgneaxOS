@@ -1,6 +1,6 @@
 # AgneaX OS — Keyboard Shortcuts & Command Reference Guide
 
-A complete, categorized reference of all global hotkeys, window management shortcuts, native application binaries (`agneax-*`), terminal productivity commands, and system administrative tools in **AgneaX OS (Ubuntu 24.04 LTS Noble Numbat)**.
+A complete, categorized reference of all global hotkeys, window management shortcuts, native application binaries (`agneax-*`), terminal productivity commands, and system administrative tools in **AgneaX OS**.
 
 ---
 
